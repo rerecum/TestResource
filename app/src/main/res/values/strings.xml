@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestResource</string>
+    <string name="napis_pierwszy">TestResource</string>
+    <string name="napis_drugi">TestResource</string>
+    <string name="napis_trzeci">TestResource</string>
+</resources>
